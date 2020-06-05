@@ -1,8 +1,10 @@
-package com.mbobiosio.uploadimagetoserver;
+package com.mbobiosio.uploadimagetoserver.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.mbobiosio.uploadimagetoserver.R;
 
 public class MainActivity extends AppCompatActivity {
 
